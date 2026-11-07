@@ -1,4 +1,4 @@
-const CACHE_NAME = "b2brc-parcel-app-v1";
+const CACHE_NAME = "b2brc-parcel-app-v2";
 const APP_SHELL = [
   "./",
   "./index.html",

@@ -11,8 +11,9 @@ before the PDF is opened. Form entries are saved in the browser on that device
 so they are still there when the page is reopened.
 
 The app shell is cached for offline use after the page has loaded once while
-online. Android users can install it from the browser menu. On iPhone, use
-Share > Add to Home Screen. Shipment details remain in local browser storage.
+online. Use the Install app button in a supported browser. Android users can
+also install from the browser menu. On iPhone, use Share > Add to Home Screen.
+Shipment details remain in local browser storage.
 Use Reset saved details before handing the device to someone else.
 
 To make it available as a web link on the friend's phone, publish index.html
